@@ -77,6 +77,9 @@ Key learning points:
 
 [Code and details](https://github.com/Bahna-Darius/Deep-Learning/blob/master/Self_Organizing_Maps(SOMs)/SOM.ipynb)
 
+## License
+
+This project is licensed under the [Personal License](https://github.com/Bahna-Darius/Deep-Learning/blob/master/LICENSE.md).
 
 ## Installation
 
